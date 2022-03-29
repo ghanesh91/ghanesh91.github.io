@@ -30,4 +30,6 @@ and Prof. Charles Meneveau during the beginning of my PhD. I worked on applying 
 flow. After completing this project, I started working with Prof. Dennice Gayme and Prof. Charles Meneveau on fluid mechanics applied wind energy which is 
 my current area of work.
 
-This is a brief account of my journey till now. Please visit other links to know more of my projects in detail. I am excited to keep continuing this journey by solving more interesting fluid dynamical problems in the future.
+This is a brief account of my journey till now. Please visit other links to know more about my projects in detail. I am excited to keep continuing this journey by solving more interesting fluid dynamical problems in the future. 
+
+Note:- This webpage is work in progress. So, please bear with me patiently till I add other contents. 
