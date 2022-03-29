@@ -25,7 +25,7 @@ Indian Institute of Science (IISc), Bangalore for my Masters (by research) degre
 magnetohydrodynamics (MHD) turbulence. I also built a rotating convection set-up along with a fellow PhD colleague in CEaS, IISc. The set-up was built to study the fluid dynamics of outer-core convection. 
 
 After my masters, I transitioned towards studying turbulence, Large-Eddy Simulations (LES) and wind energy. I joined as a PhD student with Prof. Tamer 
-Zaki and Prof. Charles Meneveau. I worked on applying wall-modelled LES to simulate bypass and orderly transition in a channel flow. After completing 
+Zaki and Prof. Charles Meneveau. I worked on applying wall-modeled LES to simulate bypass and orderly transition in a channel flow. After completing 
 this project, I started working with Prof. Dennice Gayme and Prof. Charles Meneveau on wind energy which is my current area of research. Here, I am working
 on understanding the fluid dynamics of a yawed wind turbine wake in the presence of an Atmospheric Boundary Layer (ABL).
 
