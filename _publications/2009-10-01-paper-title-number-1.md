@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.074608
+excerpt: 'In this paper, we show that bypass and subcritical orderly transition can be simulated using the computationally efficient wall-modeled LES
+method. We use Self-Organizing Map (SOM) to distinguish Turbulent-Non-Turbulent (T-NT) regions of the flow and selectively apply wall-modeling on in 
+turbulent regions of the flow. We were able to show that this method is successfully able to capture the right trends of the friction Reynolds number 
+similar to a DNS at much less computational cost.'
+date: 2021-07-19
+venue: 'Physical Review Fluids'
+paperurl: 'https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.074608'
+citation: 'Ghanesh Narasimhan, Charles Meneveau, and Tamer A. Zaki. (2021). &quot;Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions; <i>Phys. Rev. Fluids.</i>. 6, 074608.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Download paper here](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.074608)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ghanesh Narasimhan, Charles Meneveau, and Tamer A. Zaki. (2021). &quot;Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions; <i>Phys. Rev. Fluids.</i>. 6, 074608.
