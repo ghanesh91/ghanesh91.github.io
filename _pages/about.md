@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
+<p align="left">
 Hi, this is Ghanesh Narasimhan. Welcome to my webpage. I am a PhD candidate in the Mechanical Engineering department at Johns Hopkins University.
 I am co-advised by Prof. Dennice Gayme and Prof. Charles Meneveau. My broad research area of interest is fluid mechanics. I like solving problems 
 in fluid dynamics applied to engineering and geophysics using either analytical, numerical or experimental methods that better suits a given problem.
