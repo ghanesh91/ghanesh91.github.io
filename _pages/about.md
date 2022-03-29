@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p align="center">
 Hi, this is Ghanesh Narasimhan. Welcome to my webpage. I am a PhD candidate in the Mechanical Engineering department at Johns Hopkins University.
 I am co-advised by Prof. Dennice Gayme and Prof. Charles Meneveau. My broad research area of interest is fluid mechanics. I like solving problems 
 in fluid dynamics applied to engineering and geophysics using either analytical, numerical or experimental methods that better suits a given problem.
@@ -19,7 +19,7 @@ undergrad in this subject at National Institute of Technology, Trichy (NIT-T). D
 mechanics. I was part of NIT-T's student racing team called PSI racing where I learnt a lot on engineering design and manufacturing. Being part of this 
 team, we built 3 racing cars to compete in national level student racing competitions. 
 
-To satisfy my interest in fluid mechanics, I joined as a summer research student in the Emgineering Mechanics Unit (EMU) at Jawaharlal Nehru Centre for 
+To satisfy my interest in fluid mechanics, I joined as a summer research student in the Engineering Mechanics Unit (EMU) at Jawaharlal Nehru Centre for 
 Advanced Scientific Research (JNCASR). I worked with Prof. K. R. Sreenivas and performed experiments on a rotating set-up that simulates the outer-core 
 convection. The research environment at JNCASR further bolstered my interest in fluid mechanics. Hence, I then joined Centre for Earth Sciences (CEaS), 
 Indian institute of Science, Bangalore for my Masters degree. Here, I worked with Prof. Binod Sreenivasan on theoretical magnetohydrodynamics (MHD) 
@@ -33,3 +33,4 @@ my current area of work.
 This is a brief account of my journey till now. Please visit other links to know more about my projects in detail. I am excited to keep continuing this journey by solving more interesting fluid dynamical problems in the future. 
 
 Note:- This webpage is work in progress. So, please bear with me patiently till I add other contents. 
+</p>
