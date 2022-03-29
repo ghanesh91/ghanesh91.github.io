@@ -9,8 +9,8 @@ similar to a DNS at much less computational cost.'
 date: 2021-07-19
 venue: 'Physical Review Fluids'
 paperurl: 'https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.074608'
-citation: 'Ghanesh Narasimhan, Charles Meneveau, and Tamer A. Zaki. (2021). &quot;Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions; <i>Phys. Rev. Fluids.</i>. 6, 074608.'
+citation: 'Ghanesh Narasimhan, Charles Meneveau, and Tamer A. Zaki. (2021). &quot;Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions; <i>Phys. Rev. Fluids </i>. 6, 074608.'
 ---
 [Download paper here](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.074608)
 
-Recommended citation: Ghanesh Narasimhan, Charles Meneveau, and Tamer A. Zaki. (2021). &quot;Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions; <i>Phys. Rev. Fluids.</i>. 6, 074608.
+Recommended citation: Ghanesh Narasimhan, Charles Meneveau, and Tamer A. Zaki. (2021). &quot;Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions; <i>Phys. Rev. Fluids </i>. 6, 074608.
