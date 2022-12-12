@@ -1,7 +1,7 @@
 ---
-title: "Large eddy simulation of transitional channel flow using a machine learning classifier to distinguish laminar and turbulent regions"
+title: "Damping of magnetohydrodynamic waves in a rotating fluid"
 collection: publications
-#permalink: https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.074608
+#permalink: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/damping-of-magnetohydrodynamic-waves-in-a-rotating-fluid/B9759A2BD57302970F59CA8B90BB436C
 excerpt: 'In this paper, we show that bypass and subcritical orderly transition can be simulated using the computationally efficient wall-modeled LES
 method. We use Self-Organizing Map (SOM) to distinguish Turbulent-Non-Turbulent (T-NT) regions of the flow and selectively apply wall-modeling only in 
 turbulent regions of the flow. We were able to show that this method successfully captures the right trends in the evolution of friction Reynolds number 
